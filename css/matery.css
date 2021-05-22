@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #e758b0 0%, #e758b0 100%);
+    background-image: linear-gradient(to right, #cf8ffa 0%, #cf8ffa 100%);
 }
 
 .text-color {
@@ -454,6 +454,9 @@ header .side-nav .social-link {
     }
 }
 
+@keyframes rainbow {
+     /* 动态切换背景颜色. */
+ }
 @-o-keyframes scroll-down {
     0% {
         opacity: 0.4;
